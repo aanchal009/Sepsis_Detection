@@ -7,7 +7,7 @@
 <p align="center"> 
 <p align="center">
   This repository contains the <strong>Sepsis Detection project(ABHIGYATAA)</strong> source code.
-  Abhigayataa is web solution made for the early dection of SEPSIS.It is the project TEAM - HEISENBUGS have done for SIH 2019(Smart India Hackathon, 2019).
+  Abhigayataa is web solution made for the early dection of SEPSIS by TEAM - ESTRELLA.
 </p>
 
 # Overview
@@ -120,17 +120,11 @@ This is how our System Works.
 1. More efficient Algorithms can be used for prediction of SEPSIS.
 ### Contributing
 <table>
-<img src="https://via.placeholder.com/78x78.png/3498db/fff?text=M[0]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/3498db/fff?text=M[1]" align="left" vspace="10">
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[0]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[1]" align="left" vspace="10">
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[2]" align="left" vspace="10">
 <img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=L[0]" align="left" vspace="10">
 </table>
-<a href="https://github.com/Vish1811">Vishnu Kumar</a> 
-<a href="https://github.com/sonuverma1">Sonu Verma</a> 
-<a href="https://github.com/shre-ya">Aditi Shreya</a> 
-<a href="https://github.com/Piyush490">Piyush Agarwal</a> 
+<a href="https://github.com/shre-ya">Aditi Shreya</a>  
 <a href="https://github.com/niimmii">Namrata Gupta</a> 
 <a href="https://github.com/aanchal269">Aanchal Singh</a> 
 
