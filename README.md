@@ -7,7 +7,7 @@
 <p align="center"> 
 <p align="center">
   This repository contains the <strong>Sepsis Detection project(ABHIGYATAA)</strong> source code.
-  Abhigayataa is web solution made for the early dection of SEPSIS by TEAM - ESTRELLA.
+  Abhigayataa is web solution made for the early dection of SEPSIS by <b>TEAM - ESTRELLA<b>.
 </p>
 
 # Overview
@@ -121,12 +121,12 @@ This is how our System Works.
 ### Contributing
 <table>
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[0]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[2]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=L[0]" align="left" vspace="10">
-</table>
-<a href="https://github.com/shre-ya">Aditi Shreya</a>  
-<a href="https://github.com/niimmii">Namrata Gupta</a> 
-<a href="https://github.com/aanchal269">Aanchal Singh</a> 
+<img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[1]" align="left" vspace="10">
+<img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=S[2]" align="left" vspace="10">
+</table><br>
+<a href="https://github.com/shre-ya">Aditi Shreya</a><br>  
+<a href="https://github.com/niimmii">Namrata Gupta</a><br> 
+<a href="https://github.com/aanchal269">Aanchal Singh</a><br> 
 
 
 > **Disclaimer**: All arrays mentioned in this section must exist for the examples to work.
