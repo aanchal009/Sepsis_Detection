@@ -7,7 +7,7 @@
 <p align="center"> 
 <p align="center">
   This repository contains the <strong>Sepsis Detection project(ABHIGYATAA)</strong> source code.
-  Abhigayataa is web solution made for the early dection of SEPSIS by <b>TEAM - ESTRELLA<b>.
+  Abhigayataa is web solution made for the early dection of SEPSIS by <b>TEAM - ESTRELLA</b>.
 </p>
 
 # Overview
@@ -122,7 +122,7 @@ This is how our System Works.
 <table>
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[0]" align="left" vspace="10">
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[1]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=S[2]" align="left" vspace="10">
+<img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=S[2]" align="left" vspace="10"><br>
 </table><br>
 <a href="https://github.com/shre-ya">Aditi Shreya</a><br>  
 <a href="https://github.com/niimmii">Namrata Gupta</a><br> 
