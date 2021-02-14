@@ -1,4 +1,4 @@
-# SEPSIS DTECTION USING MACHINE LEARNING
+# SEPSIS DETECTION USING MACHINE LEARNING
 <h1 align="center">
   <br>
    <img src="./images.jpg" alt="Sepsis Detction" title="Abhigyataa" />
