@@ -121,14 +121,11 @@ This is how our System Works.
 ### Contributing
 <table>
 <img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[0]" align="left" vspace="10">
-<img src="https://via.placeholder.com/78x78.png/c0392b/fff?text=S[1]" align="left" vspace="10">
 <img src="https://via.placeholder.com/78x78.png/27ae60/fff?text=S[2]" align="left" vspace="10"><br>
 </table>
 <br>
-<a href="https://github.com/shre-ya">Aditi Shreya</a><br>  
-<a href="https://github.com/niimmii">Namrata Gupta</a><br> 
 <a href="https://github.com/aanchal269">Aanchal Singh</a><br> 
-
+<a href="https://github.com/aanchal269">Aman Singh</a><br> 
 
 > **Disclaimer**: All arrays mentioned in this section must exist for the examples to work.
 
