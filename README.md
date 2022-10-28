@@ -7,7 +7,7 @@
 <p align="center"> 
 <p align="center">
   This repository contains the <strong>Sepsis Detection project(ABHIGYATAA)</strong> source code.
-  Abhigayataa is web solution made for the early dection of SEPSIS
+  Abhigayataa is web solution made for the early detection of SEPSIS
 </p>
 
 # Overview
